@@ -1,26 +1,18 @@
-Task Manager - React Native (Expo for Web)
+Task Manager - React Native (Expo)
+
 Overview
 A simple, minimal Task Manager application built using React Native with Expo and designed to run directly
 in the web browser.
 It allows users to add, toggle (complete/incomplete), and delete tasks ideal for productivity and to-do
 tracking.
+
 Features
 Add new tasks with a single input
 Mark tasks as completed/incomplete
 Delete tasks
 Clean, mobile-friendly responsive UI
-Built entirely with React Native + Expo for Web
-Project Structure
-MyFirstApp/
-app/
-(tabs)/index.tsx # Main screen (Task manager UI)
-components/
-TaskItem.tsx # Task UI component
-types/
-Task.ts # Task type definition
-assets/ # Static assets
-.gitignore
-app.json
+Built entirely with React Native + Expo
+
 Task Manager - React Native (Expo for Web)
 package.json
 README.md
@@ -30,6 +22,7 @@ Tech Stack
 - TypeScript
 - React Native Web
 - react-native-uuid (for unique task IDs)
+
 Installation & Running the Project
 1. Clone the Repository
 git clone https://github.com/your-username/task-manager-react-native-web.git
